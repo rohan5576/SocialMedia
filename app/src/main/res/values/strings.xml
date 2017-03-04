@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SocialMedia</string>
+    <string name="appid">1422593627791260</string>
+</resources>
+
+    <!--This class can be extended to receive notifications of access token changes-->
+    <!--The CallbackManager manages the callbacks into the FacebookSdk from an Activity's or Fragment's onActivityResult() method.-->
+    <!--This class can be extended to receive notifications of profile changes.-->
+    <!--This class manages login and permissions for Facebook.-->
+    <!--A single request to be sent to the Facebook Platform through the Graph API. The Request class provides functionality relating to serializing and deserializing requests and responses, making calls in batches (with a single round-trip to the service) and making calls asynchronously.-->
+    <!--Provides the base class for content to be shared. Contains all common methods for the different types of content.-->
+
